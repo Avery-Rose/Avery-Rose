@@ -1,7 +1,7 @@
 ### Hi there 👋, I’m [Avery][pronounspage]
 #### I am a student
 - 😄 Pronouns: [she/her][pronouns]
-- 🌱 I’m currently learning ReactJS, C#, HTML, and CSS
+- 🌱 I’m currently learning TypeScript, SQL, C#, HTML, and CSS
 
 ### Languages:
 ![JS][javascript]![NodeJS][nodejs]![HTML][html]![CSS][css]
