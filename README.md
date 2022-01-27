@@ -1,15 +1,22 @@
 ### Hi there 👋, I’m [Avery][pronounspage]
+
 #### I am a student
+
 - 😄 Pronouns: [she/her][pronouns]
 - 🌱 I’m currently learning TypeScript, SQL, C#, HTML, and CSS
 
-### Languages:
+### Languages
+
 ![JS][javascript]![NodeJS][nodejs]![HTML][html]![CSS][css]
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Averyyyyyyyy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Averyyyyyyyy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [pronouns]: https://en.pronouns.page/she/her
 [pronounspage]: https://pronouns.page/@catgirlava
