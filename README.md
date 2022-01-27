@@ -11,10 +11,14 @@
 
 ---
 
+[![wakatime](https://wakatime.com/badge/user/dd61c1c6-66ac-402b-826f-ec5b3c62aea3.svg)](https://wakatime.com/@dd61c1c6-66ac-402b-826f-ec5b3c62aea3)
+
 <!--START_SECTION:waka-->
+
 ```text
 No Activity tracked this Week
 ```
+
 <!--END_SECTION:waka-->
 
 ---
