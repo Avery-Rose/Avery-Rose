@@ -15,15 +15,13 @@
 [![wakapi-last-30](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/Averyyyyyyyy/interval:30_days&style=flat-square&color=2F855A&label=last%2030d)][wakatime-profile]
 
 <!--START_SECTION:waka-->
-
 ```text
-TypeScript   3 hrs           ████████░░░░░░░░░░░░░░░░░   32.39 %
-JSON         1 hr 47 mins    █████░░░░░░░░░░░░░░░░░░░░   19.34 %
-SQL          1 hr 31 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
-Markdown     46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
-JavaScript   38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+TypeScript   3 hrs           ⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.39 % 
+JSON         1 hr 47 mins    ⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.34 % 
+SQL          1 hr 31 mins    ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.45 % 
+Markdown     46 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.26 % 
+JavaScript   38 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.97 % 
 ```
-
 <!--END_SECTION:waka-->
 
 ---
