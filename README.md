@@ -12,23 +12,10 @@
 ---
 
 [![wakapi today](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/Averyyyyyyyy/interval:today&style=flat-square&color=2F855A&label=today)][wakatime-profile]
-[![wakapi-last-30](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/Averyyyyyyyy/interval:30_days&style=flat-square&color=2F855A&label=last%2030d)][wakatime-profile]
 
-<!--START_SECTION:waka-->
+[![wakapi week stats](https://github-readme-stats.vercel.app/api/wakatime?username=Averyyyyyyyy&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)][wakatime-profile]
 
-```text
-TypeScript   3 hrs           ████████░░░░░░░░░░░░░░░░░   32.39 %
-JSON         1 hr 47 mins    █████░░░░░░░░░░░░░░░░░░░░   19.34 %
-SQL          1 hr 31 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
-Markdown     46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
-JavaScript   38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-```
-
-<!--END_SECTION:waka-->
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Averyyyyyyyy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Avery's GitHub stats](https://github-readme-stats.vercel.app/api?username=Averyyyyyyyy&show_icons=true&theme=vue-dark)
 
 [pronouns-definitions]: https://en.pronouns.page/she/her
 [pronounspage]: https://pronouns.page/@catgirlava
