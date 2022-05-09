@@ -1,8 +1,8 @@
 # Hi there 👋, I’m [Avery][pronounspage]
 
-- 🌸⠀Age: **19**
-- ✨⠀Birthday: **Feb 9**
-- 🎨⠀Gender: **Female**
+- 🌸 Age: **19**
+- ✨ Birthday: **Feb 9**
+- 🎨 Gender: **Female**
 - 😄 Pronouns: **[she/her][pronouns-definitions]**
   - 🌈 I'm [LGBTQIA+][lgbt-foundation] Possitive
   - <div class="Flags">
