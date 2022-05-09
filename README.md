@@ -25,7 +25,7 @@
   - [x] Bootstrap
   - [x] TailwindCSS
   - [x] Firebase
-- I'm proficient in
+- 🎉I'm proficient in
   - [x] Javascript
   - [x] NodeJS
   - [x] HTML
