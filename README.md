@@ -15,8 +15,9 @@
       </a>
     </div>
 
-## I am an IT Student
+## I'm currently a IT Student
 
+- 📌 I'm Majoring in **Web & Mobile Application Development**
 - 🌱 I'm currently learning _TypeScript_, _Dart/Flutter_
 - 📚 Things I want to learn or get a better understanding of
   - [x] MongoDB
