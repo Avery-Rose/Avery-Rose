@@ -18,10 +18,10 @@
 ## I'm currently a IT Student
 
 - 📌 I'm Majoring in **Web & Mobile Application Development**
-- 🌱 I'm currently learning _TypeScript_, _Dart/Flutter_
+- 🌱 I'm currently learning TypeScript and Dart/Flutter
 - 📚 Things I want to learn or get a better understanding[^1]
   - [x] MongoDB
-  - [ ] ExpressJS
+  - [x] ExpressJS
   - [x] ReactJS
   - [x] Bootstrap
   - [ ] TailwindCSS
