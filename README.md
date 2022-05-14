@@ -18,7 +18,7 @@
 ## I'm currently a IT Student
 
 - 📌 I'm Majoring in **Web & Mobile Application Development**
-- 🌱 I'm currently learning TypeScript and Dart/Flutter
+- 🌱 I'm currently learning Dart/Flutter
 - 📚 Things I want to learn or get a better understanding[^1]
   - [x] MongoDB
   - [x] ExpressJS
@@ -28,6 +28,7 @@
   - [ ] Firebase
 - 🎉I'm proficient in
   - [x] Javascript
+  - [x] TypeScript
   - [x] NodeJS
   - [x] HTML
   - [x] CSS
