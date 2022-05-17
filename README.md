@@ -26,7 +26,7 @@
   - [x] ExpressJS
   - [x] ReactJS
   - [x] Bootstrap
-  - [ ] TailwindCSS
+  - [x] TailwindCSS
   - [ ] Firebase
 
 - 🎉I'm proficient in
