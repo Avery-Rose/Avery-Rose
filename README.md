@@ -14,19 +14,23 @@
       <img src="https://pronouns.page/flags/Lesbian.png" alt="Lesbian Flag" height="15px"/>
       </a>
     </div>
+  - Visit My [Website][website]
 
 ## I'm currently a IT Student
 
 - 📌 I'm Majoring in **Web & Mobile Application Development**
 - 🌱 I'm currently learning Dart/Flutter
 - 📚 Things I want to learn or get a better understanding[^1]
+
   - [x] MongoDB
   - [x] ExpressJS
   - [x] ReactJS
   - [x] Bootstrap
   - [ ] TailwindCSS
   - [ ] Firebase
+
 - 🎉I'm proficient in
+
   - [x] Javascript
   - [x] TypeScript
   - [x] NodeJS
@@ -34,15 +38,15 @@
   - [x] CSS
   - [x] C#
 
-### Socials
-
-[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram-link]
-[![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter-link]
-
----
+<details>
+  <summary>
+    📊 Github Stats
+  </summary>
 
 ![Avery's GitHub stats](https://github-readme-stats.vercel.app/api?username=Averyyyyyyyy&show_icons=true&theme=vue-dark)
 [![wakapi week stats](https://github-readme-stats.vercel.app/api/wakatime?username=Averyyyyyyyy&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)][wakatime-profile]
+
+</details>
 
 [^1]:
     Things that are checked means I have some knowledge about them.
@@ -54,6 +58,5 @@
 [pronouns-definitions]: https://en.pronouns.page/she/her
 [pronounspage]: https://pronouns.page/@cattgirlava
 [lgbt-foundation]: https://lgbt.foundation/
-[twitter-link]: https://twitter.com/cattgirlava
-[instagram-link]: https://instagram.com/cattgirlava
+[website]: https://avussy.cc/
 [alexandres-badge-repo]: https://github.com/alexandresanlim/Badges4-README.md-Profile
