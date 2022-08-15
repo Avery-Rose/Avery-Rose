@@ -28,6 +28,7 @@
   - [x] Bootstrap
   - [x] TailwindCSS
   - [ ] Firebase
+  - [ ] Rust
 
 - 🎉I'm proficient in
 
