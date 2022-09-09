@@ -24,7 +24,6 @@
 
   - [x] MongoDB
   - [x] ExpressJS
-  - [x] ReactJS
   - [x] Bootstrap
   - [x] TailwindCSS
   - [ ] Firebase
@@ -32,6 +31,7 @@
 
 - 🎉I'm proficient in
 
+  - [x] ReactJS
   - [x] Javascript
   - [x] TypeScript
   - [x] NodeJS
