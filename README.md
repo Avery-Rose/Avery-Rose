@@ -20,14 +20,13 @@
 
 - 📌 I'm Majoring in **Web & Mobile Application Development**
 - 🌱 I'm currently learning Dart/Flutter
-- 📚 Things I want to learn or get a better understanding[^1]
+- 📚 Technologies I want to learn or get a better understanding[^1]
 
   - [x] MongoDB
   - [x] ExpressJS
   - [x] Bootstrap
   - [x] TailwindCSS
   - [ ] Firebase
-  - [ ] Rust
 
 - 🎉I'm proficient in
 
