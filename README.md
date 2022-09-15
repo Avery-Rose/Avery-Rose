@@ -44,11 +44,6 @@
     📊 Github Stats
   </summary>
 
-![Avery's GitHub stats](https://github-readme-stats.vercel.app/api?username=Averyyyyyyyy&show_icons=true&theme=vue-dark)
-[![wakapi week stats](https://github-readme-stats.vercel.app/api/wakatime?username=Averyyyyyyyy&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)][wakatime-profile]
-
-</details>
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-366%20hrs%2022%20mins-blue)
 
@@ -135,6 +130,10 @@ C++                      3 repos             ██░░░░░░░░░�
 
  Last Updated on 15/09/2022 14:24:34 UTC
 <!--END_SECTION:waka-->
+
+</details>
+
+
 
 [^1]:
     Things that are checked means I have some knowledge about them.
