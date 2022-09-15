@@ -49,6 +49,9 @@
 
 </details>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [^1]:
     Things that are checked means I have some knowledge about them.
     If they are not checked, I don't know them **yet**.
