@@ -145,5 +145,5 @@ C++                      3 repos             █░░░░░░░░░░�
 [pronouns-definitions]: https://en.pronouns.page/she/her
 [pronounspage]: https://pronouns.page/@cattgirlava
 [lgbt-foundation]: https://lgbt.foundation/
-[website]: https://avussy.cc/
+[website]: https://avarose.dev/
 [alexandres-badge-repo]: https://github.com/alexandresanlim/Badges4-README.md-Profile
