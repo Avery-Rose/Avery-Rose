@@ -44,7 +44,7 @@
   </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-413%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -52,7 +52,7 @@
 
 > 🏆 521 Contributions in the Year 2022
  > 
-> 📦 55.4 kB Used in GitHub's Storage 
+> 📦 55.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -128,7 +128,7 @@ C++                      3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Avery-Rose/Avery-Rose/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/09/2022 18:53:29 UTC
+ Last Updated on 21/09/2022 18:56:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
