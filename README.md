@@ -19,17 +19,17 @@
 ## I'm currently a IT Student
 
 - 📌 I'm Majoring in **Web & Mobile Application Development**
-- 🌱 I'm currently learning Dart/Flutter
 - 📚 Technologies I want to learn or get a better understanding[^1]
 
   - [x] MongoDB
   - [x] ExpressJS
   - [x] Bootstrap
   - [x] TailwindCSS
-  - [ ] Firebase
+  - [ ] Dart/Flutter
 
 - 🎉I'm proficient in
 
+  - [X] Firebase
   - [x] ReactJS
   - [x] Javascript
   - [x] TypeScript
