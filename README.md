@@ -47,7 +47,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-585%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -90,16 +90,16 @@ Sunday       41 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Halifax
 
 💬 Programming Languages: 
-Other                    6 hrs               █████████████████████████   100.0%
+Other                    4 hrs               █████████████████████████   100.0%
 
 🔥 Editors: 
-Google Calendar          6 hrs               █████████████████████████   100.0%
+Google Calendar          4 hrs               █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          6 hrs               █████████████████████████   100.0%
+Unknown Project          4 hrs               █████████████████████████   100.0%
 
 💻 Operating System: 
-Unknown OS               6 hrs               █████████████████████████   100.0%
+Unknown OS               4 hrs               █████████████████████████   100.0%
 
 ```
 
@@ -120,7 +120,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Avery-Rose/Avery-Rose/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/01/2023 18:41:48 UTC
+ Last Updated on 17/01/2023 18:42:08 UTC
 <!--END_SECTION:waka-->
 
 </details>
