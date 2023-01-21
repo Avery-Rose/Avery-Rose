@@ -53,7 +53,7 @@
 
 > 🏆 7 Contributions in the Year 2023
  > 
-> 📦 129.6 kB Used in GitHub's Storage 
+> 📦 129.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -90,16 +90,16 @@ Sunday       41 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Halifax
 
 💬 Programming Languages: 
-Other                    2 hrs               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Google Calendar          2 hrs               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Unknown OS               2 hrs               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -120,7 +120,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Avery-Rose/Avery-Rose/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/01/2023 18:41:30 UTC
+ Last Updated on 21/01/2023 18:39:38 UTC
 <!--END_SECTION:waka-->
 
 </details>
