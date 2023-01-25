@@ -45,7 +45,7 @@
   </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-585%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-586%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -120,7 +120,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Avery-Rose/Avery-Rose/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/01/2023 18:41:50 UTC
+ Last Updated on 25/01/2023 18:41:14 UTC
 <!--END_SECTION:waka-->
 
 </details>
