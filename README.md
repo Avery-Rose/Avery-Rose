@@ -90,21 +90,16 @@ Sunday       29 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Halifax
 
 💬 Programming Languages: 
-TypeScript               19 mins             ███████░░░░░░░░░░░░░░░░░░   28.64% 
-JavaScript               15 mins             ██████░░░░░░░░░░░░░░░░░░░   23.71% 
-SCSS                     14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.1% 
-Docker                   13 mins             █████░░░░░░░░░░░░░░░░░░░░   20.41% 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.06%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-jord                     53 mins             ████████████████████░░░░░   79.59% 
-docker_testing           13 mins             █████░░░░░░░░░░░░░░░░░░░░   20.41%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 7 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -125,7 +120,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Avery-Rose/Avery-Rose/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/02/2023 18:42:11 UTC
+ Last Updated on 02/02/2023 18:41:22 UTC
 <!--END_SECTION:waka-->
 
 </details>
