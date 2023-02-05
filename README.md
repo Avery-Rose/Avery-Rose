@@ -45,7 +45,7 @@
   </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-586%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-587%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -90,16 +90,23 @@ Sunday       29 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Halifax
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   41 mins             ████████████████████░░░░░   80.21% 
+Markdown                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.47% 
+XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.27% 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04% 
+Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           52 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+TipTime                  43 mins             █████████████████████░░░░   84.18% 
+basic-android-kotlin-comp7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.47% 
+lab-3-Avery-Rose         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  52 mins             █████████████████████████   100.0%
 
 ```
 
@@ -120,7 +127,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Avery-Rose/Avery-Rose/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/02/2023 18:39:50 UTC
+ Last Updated on 05/02/2023 18:38:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
