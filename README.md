@@ -53,7 +53,7 @@
 
 > 🏆 20 Contributions in the Year 2023
  > 
-> 📦 129.8 kB Used in GitHub's Storage 
+> 📦 129.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -90,19 +90,16 @@ Sunday          29 commits       █░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Halifax
 
 💬 Programming Languages: 
-Java                     32 mins             ██████████████████████░░░   87.63 % 
-XML                      4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-MVC_JPA                  35 mins             ████████████████████████░   97.40 % 
-DataAccess_JPA_NHL_demo  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 ```
 
@@ -123,7 +120,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Avery-Rose/Avery-Rose/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/02/2023 18:43:10 UTC
+ Last Updated on 18/02/2023 18:37:56 UTC
 <!--END_SECTION:waka-->
 
 </details>
