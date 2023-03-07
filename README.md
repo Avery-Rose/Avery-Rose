@@ -45,7 +45,7 @@
   </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-592%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-593%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -88,16 +88,17 @@ Sunday                   31 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Halifax
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 min               █████████████████████████   99.98 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+lab-8-navigation-Avery-Ro1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -117,7 +118,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Avery-Rose/Avery-Rose/main/assets/bar_graph.png)
 
 
- Last Updated on 06/03/2023 18:41:17 UTC
+ Last Updated on 07/03/2023 18:40:21 UTC
 <!--END_SECTION:waka-->
 
 </details>
