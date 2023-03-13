@@ -45,13 +45,13 @@
   </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-596%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-596%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 130.1 kB Used in GitHub's Storage 
+> 📦 130.2 kB Used in GitHub's Storage 
  > 
 > 🏆 33 Contributions in the Year 2023
  > 
@@ -126,7 +126,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Avery-Rose/Avery-Rose/main/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2023 18:35:55 UTC
+ Last Updated on 13/03/2023 18:38:15 UTC
 <!--END_SECTION:waka-->
 
 </details>
