@@ -88,18 +88,16 @@ Sunday                   87 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Halifax
 
 💬 Programming Languages: 
-Java                     42 mins             ████████████████████░░░░░   79.20 % 
-XML                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Properties               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-java-ee-restaurant-projec53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,7 +117,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Avery-Rose/Avery-Rose/main/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2023 18:36:11 UTC
+ Last Updated on 22/04/2023 18:35:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
