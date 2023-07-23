@@ -88,16 +88,16 @@ Sunday                   93 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Halifax
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    6 hrs               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Google Calendar          6 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          6 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Unknown OS               6 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -117,7 +117,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Avery-Rose/Avery-Rose/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2023 18:35:19 UTC
+ Last Updated on 23/07/2023 18:35:10 UTC
 <!--END_SECTION:waka-->
 
 </details>
