@@ -4,17 +4,8 @@
 - ✨ Birthday: **Feb 9**
 - 🎨 Gender: **Female**
 - 😄 Pronouns: **[she/her][pronounspage]**
-  - 🌈 I'm [LGBTQIA+][lgbt-foundation] Possitive
-  - <div class="Flags">
-      <span>My Pride</span>
-      <a href="https://en.pronouns.page/dictionary/terminology#transgender">
-        <img src="https://pronouns.page/flags/Transgender.png" alt="Transgender Flag" height="15px"/>
-      </a>
-      <a href="https://en.pronouns.page/dictionary/terminology#lesbian">
-      <img src="https://pronouns.page/flags/Lesbian.png" alt="Lesbian Flag" height="15px"/>
-      </a>
-    </div>
-  - Visit My [Website][website]
+- 🌈 I'm [LGBTQIA+][lgbt-foundation] Possitive
+- Visit My [Website][website]
 
 ## I'm currently a IT Student
 
