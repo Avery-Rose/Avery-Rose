@@ -3,7 +3,7 @@
 - 🌸 Age: **21**
 - ✨ Birthday: **Feb 9**
 - 🎨 Gender: **Female**
-- 😄 Pronouns: **[she/her][pronounspage]**
+- 😄 Pronouns: **[she/her][pronouns]**
 - 🌈 I'm [LGBTQIA+][lgbt-foundation] Possitive
 - Visit My [Website][website]
 
@@ -38,7 +38,7 @@
 
 [wakatime-profile]: https://wakatime.com/@Averyyyyyyyy
 [pronouns-definitions]: https://en.pronouns.page/she/her
-[pronounspage]: https://pronouns.page/@cattgirlava
+[pronouns]: https://en.pronouns.page/she
 [lgbt-foundation]: https://lgbt.foundation/
 [website]: https://avarose.dev/
 [alexandres-badge-repo]: https://github.com/alexandresanlim/Badges4-README.md-Profile
