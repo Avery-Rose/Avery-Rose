@@ -10,29 +10,31 @@
 ## I'm currently a IT Student
 
 - 📌 I'm Majoring in **Web & Mobile Application Development**
-- 📚 Technologies I want to learn or get a better understanding[^1]
+- 📚 Technologies I want to learn or get a better understanding
 
-  - [ ] Angular
-  - [x] Bootstrap
-  - [x] TailwindCSS
-  - [x] Dart/Flutter
+  - Angular
+  - Bootstrap
+  - TailwindCSS
+  - Dart/Flutter
+  - Rust
+ 
+- 🏫 Currently Learning...
+
+  - PHP
 
 - 🎉I'm proficient in
 
-  - [x] Javascript
-  - [x] TypeScript
-  - [x] ExpressJS
-  - [x] Firebase
-  - [x] ReactJS
-  - [x] MongoDB
-  - [x] NodeJS
-  - [x] HTML
-  - [x] CSS
-  - [x] C#
-
-[^1]:
-    Things that are checked means I have some knowledge about them.
-    If they are not checked, I don't know them **yet**.
+  - Javascript
+  - TypeScript
+  - ExpressJS
+  - Firebase
+  - ReactJS
+  - MongoDB
+  - NodeJS
+  - HTML
+  - CSS
+  - C#
+  - Swift/SwiftUI
 
 [//]: <> (Links)
 
