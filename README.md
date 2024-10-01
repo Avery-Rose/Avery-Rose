@@ -2,7 +2,7 @@
 
 - 🌸 Age: **21**
 - ✨ Birthday: **Feb 9**
-- 🎨 Gender: **Female**
+- 🎨 Gender: **Woman**
 - 🌈 Pronouns: **[she/her][pronouns]**
 - Visit My [Website][website]
 
