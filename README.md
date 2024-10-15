@@ -9,31 +9,6 @@
 ## I'm currently a IT Student
 
 - 📌 I'm Majoring in **Web & Mobile Application Development**
-- 📚 Technologies I want to learn or get a better understanding
-
-  - Angular
-  - Bootstrap
-  - TailwindCSS
-  - Dart/Flutter
-  - Rust
- 
-- 🏫 Currently Learning...
-
-  - PHP
-
-- 🎉I'm proficient in
-
-  - Javascript
-  - TypeScript
-  - ExpressJS
-  - Firebase
-  - ReactJS
-  - MongoDB
-  - NodeJS
-  - HTML
-  - CSS
-  - C#
-  - Swift/SwiftUI
 
 [//]: <> (Links)
 
